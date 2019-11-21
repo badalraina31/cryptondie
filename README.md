@@ -76,9 +76,9 @@ Advanced Encryption Standard
 
 ```text
 [+] Telegram:   @zer0dx
-[+] Github:     https://github.com/zer0dx
-[+] Twitter:    https://twitter.com/zer0dxx
-[+] Blog:       https://zer0dx.github.io
+[+] Github:     https://github.com/gmdutrax
+[+] Twitter:    https://twitter.com/gmdutra
+[+] Blog:       https://gmdutra.github.io
 ```
 
 <p align="center">
