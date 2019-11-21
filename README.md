@@ -75,7 +75,7 @@ Advanced Encryption Standard
 ### Contact
 
 ```text
-[+] Telegram:   @zer0dx
+[+] Telegram:   @gmdutra
 [+] Github:     https://github.com/gmdutrax
 [+] Twitter:    https://twitter.com/gmdutra
 [+] Blog:       https://gmdutra.github.io
