@@ -22,9 +22,9 @@ def banner():
            ,'  ,-----'   |        \\
            `--{__________)        \/
 
-Author: Gabriel Dutra A.K.A zer0dx
-Github: github.com/zer0dx
-Blog:   https://zer0dx.github.io
+Author: Gabriel Dutra
+Github: github.com/gmdutra
+Blog:   https://gmdutra.github.io
 ''', "yellow"))
 
     sleep(3)
