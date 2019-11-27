@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://twitter.com/gmdutrax">
-      <img src="https://img.shields.io/badge/twitter-@zer0dxx-blue.svg">
+      <img src="https://img.shields.io/badge/twitter-@gmdutrax-blue.svg">
     </a>
   </p>
 </p>
@@ -42,7 +42,7 @@ POST  - /target/<target_id>   - create new target
 ### Clonning repository
 
 ```
-git clone https://github.com/zer0dx/cryptondie
+git clone https://github.com/gmdutra/cryptondie
 ```
 
 ### Install requirements
